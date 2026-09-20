@@ -77,8 +77,8 @@ NutriPath is built with standard front-end web technologies and runs directly in
 ┌──────────────────────────────────────────────┐
 │ 5. Personalized Recommendations & Tracking   │
 │ (Meal Plans, Exercise Guidance & Habit Logs) │
-└──────────────────────────────────────────────┘
-🚀 Getting Started
+└──────────────────────────────────────────────┘└──────────────────────────────────────────────┘
+##🚀 Getting Started
 Prerequisites
 NutriPath runs natively in any modern web browser without needing additional dependencies, node modules, or build steps.
 
