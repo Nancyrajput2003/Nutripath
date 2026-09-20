@@ -1,3 +1,9 @@
+# 🥗 NutriPath — Personalised Nutrition & Fitness Platform
+
+> **A lightweight, client-side web application for body-composition analysis, customized dietary planning, workout guidance, and daily habit tracking.**
+
+---
+
 ## 📖 Overview
 
 **NutriPath** helps users plan and manage their health and fitness goals through a step-by-step interactive workflow. By completing a brief assessment, the application calculates key health metrics—including Body Mass Index (BMI), Basal Metabolic Rate (BMR), and Total Daily Energy Expenditure (TDEE)—and uses them to suggest daily caloric targets, meal plans, exercise ideas, and habit tracking.
@@ -78,9 +84,7 @@ NutriPath is built with standard front-end web technologies and runs directly in
 │ 5. Personalized Recommendations & Tracking   │
 │ (Meal Plans, Exercise Guidance & Habit Logs) │
 └──────────────────────────────────────────────┘
-└──────────────────────────────────────────────┘
-
-##🚀 Getting Started
+🚀 Getting Started
 Prerequisites
 NutriPath runs natively in any modern web browser without needing additional dependencies, node modules, or build steps.
 
