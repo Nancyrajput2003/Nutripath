@@ -84,7 +84,10 @@ NutriPath is built with standard front-end web technologies and runs directly in
 │ 5. Personalized Recommendations & Tracking   │
 │ (Meal Plans, Exercise Guidance & Habit Logs) │
 └──────────────────────────────────────────────┘
+
+
 🚀 Getting Started
+
 Prerequisites
 NutriPath runs natively in any modern web browser without needing additional dependencies, node modules, or build steps.
 
@@ -107,6 +110,7 @@ Windows: start index.html
 Linux: xdg-open index.html
 
 💡 User Guide
+
 Initial Onboarding: Complete the basic details step to begin your assessment.
 
 Metrics Input: Use the interactive sliders and controls to input age, weight, height, and activity level.
